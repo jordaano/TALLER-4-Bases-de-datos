@@ -14,7 +14,8 @@ public class jugador {
     private int edad;
     private String posicion;
     private int idEquipo;
-
+    public jugador() {
+}
     public jugador(int id, String nombre, int edad, String posicion, int idEquipo) {
         this.id = id;
         this.nombre = nombre;

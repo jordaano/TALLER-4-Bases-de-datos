@@ -13,7 +13,8 @@ public class arbitro {
     private int id;
     private String nombre;
     private String categoria;
-
+    public arbitro() {
+}
     public arbitro(int id, String nombre, String categoria) {
         this.id = id;
         this.nombre = nombre;

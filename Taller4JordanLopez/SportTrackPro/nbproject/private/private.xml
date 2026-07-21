@@ -3,23 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/sporttrackpro/SportTrackPro.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/modelo/equipo.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/modelo/jugador.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/modelo/partido.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/modelo/arbitro.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/modelo/sede.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/controlador/equipoControl.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/controlador/jugadorControl.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/controlador/partidoControl.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/vista/menuPrincipal.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/main/main.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/dao/equipoDao.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/dao/jugadorDao.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/dao/partidoDao.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/dao/arbitroDao.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/dao/sedeDao.java</file>
-            <file>file:/C:/Users/Jordann/Desktop/Segundo%20Ciclo/POO/Taller4JordanLopez/SportTrackPro/src/util/conexionSQlite.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/controlador/equipoControl.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/controlador/jugadorControl.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/dao/arbitroDao.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/controlador/partidoControl.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/dao/equipoDao.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/dao/jugadorDao.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/dao/partidoDao.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/dao/sedeDao.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/modelo/arbitro.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/modelo/equipo.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/modelo/jugador.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/modelo/partido.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/modelo/sede.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/main/main.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/sporttrackpro/SportTrackPro.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/util/conexionSQlite.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/vista/menuPrincipal.java</file>
+            <file>file:/C:/Users/Jordann/Desktop/TALLER-4/Taller4JordanLopez/SportTrackPro/src/modelo/tablaPosiciones.java</file>
         </group>
     </open-files>
 </project-private>

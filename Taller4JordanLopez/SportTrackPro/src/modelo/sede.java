@@ -12,7 +12,8 @@ public class sede {
     private int id;
     private String nombre;
     private String direccion;
-
+    public sede() {
+}
     public sede(int id, String nombre, String direccion) {
         this.id = id;
         this.nombre = nombre;

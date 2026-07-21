@@ -18,7 +18,8 @@ public class partido {
     private int golesLocal;
     private int golesRival;
     private int ganador;
-
+    public partido() {
+}
     public partido(int id, int idEquipoLocal, int idEquipoRival, String fecha, int idSede, int idArbitro, int golesLocal, int golesRival, int ganador) {
         this.id = id;
         this.idEquipoLocal = idEquipoLocal;

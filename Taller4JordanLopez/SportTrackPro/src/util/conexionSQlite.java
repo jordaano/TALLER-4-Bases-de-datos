@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package util;
 
 import java.sql.Connection;
@@ -10,16 +6,20 @@ import java.sql.SQLException;
 
 public class conexionSQlite {
 
-    private static final String URL = "jdbc:sqlite:sporttrackpro.db";
-
     public static Connection conectar() {
+        Connection con = null;
         try {
-            Connection conexion = DriverManager.getConnection(URL);
-            System.out.println("Conexión exitosa.");
-            return conexion;
-        } catch (SQLException e) {
+            Class.forName("org.sqlite.JDBC");
+            
+            // Ruta exacta a tu archivo .db en el equipo (usa slashes /)
+            String url = "jdbc:sqlite:db/sporttrack.db";
+            System.out.println(url);
+
+            con = DriverManager.getConnection(url);
+            // System.out.println("Conexión exitosa.");
+        } catch (ClassNotFoundException | SQLException e) {
             System.out.println("Error al conectar: " + e.getMessage());
-            return null;
         }
+        return con;
     }
 }
